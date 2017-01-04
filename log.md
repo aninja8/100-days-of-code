@@ -4,8 +4,8 @@
 
 **Today's Progress**: Set up a github blog
 
-**Thoughts:** Why didn't I do this earlier?'
-**Link to work:** [blog] aninja8.github.io
+**Thoughts:** Why didn't I do this earlier?' Need to add a theme. Looks ugly now. 
+**Link to work:** [blog] aninja8.github.io/blog
 
 
 ### Day 1: January 3, Tuesday
